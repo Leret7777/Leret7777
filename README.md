@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leret7777
+- 👋 Hi, I’m Leret
 - 👀 I’m interested in Data, Machine Learning & Solution Architecture
 - 🌱 I’m currently learning Python, Data Analyst & Engineering 
 - 💞️ I’m looking to collaborate on Commercial Analytics & Machine Learning Projects 
