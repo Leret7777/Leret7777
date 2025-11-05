@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Commercial Analytics & AI Engineering Projects
 - 📫 How to reach me at my email: leretmutkut@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love playing microsoft solitiare, clash of clans and golf.
+- ⚡ Fun fact: I love playing microsoft solitiare, clash of clans and swimming.
 
 <!---
 Leret7777/Leret7777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
